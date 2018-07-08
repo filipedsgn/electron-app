@@ -1,0 +1,22 @@
+{
+  "name": "electron-app",
+  "version": "1.0.0",
+  "description": "App desktop de teste",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filipedsgn/electron-app.git"
+  },
+  "author": "Filipe Andrade",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/filipedsgn/electron-app/issues"
+  },
+  "homepage": "https://github.com/filipedsgn/electron-app#readme",
+  "dependencies": {
+    "electron": "^2.0.3"
+  }
+}
